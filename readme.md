@@ -50,6 +50,9 @@ streamlit run app.py
 - YouTube Data API v3
 - AI 모델: RoBERTa, BERT, DistilBERT
 
+## Streamlit
+- https://youtube-comment-ai-analyzer.streamlit.app/
+
 ## 팀
 
 - 김민석
