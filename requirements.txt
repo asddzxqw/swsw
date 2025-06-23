@@ -1,8 +1,26 @@
+# Streamlit 웹 프레임워크
 streamlit>=1.28.0
+
+# 데이터 처리 및 분석
 pandas>=1.5.0
-plotly>=5.15.0
+numpy>=1.21.0
+
+# 시각화
+plotly>=5.0.0
+matplotlib>=3.5.0
+
+# 워드클라우드 생성
+wordcloud>=1.9.0
+
+# HTTP 요청 (YouTube API)
 requests>=2.28.0
-numpy>=1.24.0
-torch>=2.0.0
-transformers>=4.30.0
-collections-extended>=2.0.2
+
+# AI/ML 모델
+torch>=1.12.0
+transformers>=4.21.0
+
+# 이미지 처리 (워드클라우드 의존성)
+Pillow>=9.0.0
+
+# 추가 유틸리티 (선택사항)
+# python-dateutil>=2.8.0  # pandas에 포함되어 있음
